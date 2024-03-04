@@ -1,0 +1,17 @@
+.h1{
+    font-size: 30px;
+
+}
+.texto{
+    font-family: Helvetica;
+}
+.img{
+    width: 100%; 
+    width: 100%;
+}
+.divpai{
+        width: 500px ;
+        background-color: rgb(240, 190, 80) ;
+        border: 3px solid black;
+        border-radius: 15px; 
+}
